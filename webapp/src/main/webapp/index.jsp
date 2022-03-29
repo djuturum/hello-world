@@ -5,13 +5,13 @@
 <h2>HTML Forms</h2>
 
 <form action="/action_page.php">
-  <label for="fname">First Nameic:</label><br>
+  <label for="fname">First Nameigic:</label><br>
   <input type="text" id="fname" name="fname" value="Muamer3"><br>
-  <label for="lname">Last name:</label><br>
+  <label for="lname">Last nameic:</label><br>
   <input type="text" id="lname" name="lname" value="Kadric2"><br><br>
   <label for="lname">Surname name:</label><br>
   <input type="text" id="lname" name="lname" value="Nema"><br><br>
- 
+
   <input type="submit" value="Submit">
 </form> 
 

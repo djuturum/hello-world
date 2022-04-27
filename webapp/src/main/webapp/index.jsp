@@ -10,7 +10,7 @@
   <label for="lname">Last Name:</label><br>
   <input type="text" id="lname" name="lname" value="Kadric9"><br><br>
   <label for="lname">Surname Name:</label><br>
-  <input type="text" id="lname" name="lname" value="Nema"><br><br>
+  <input type="text" id="lname" name="lname" value="emir"><br><br>
 
   <input type="submit" value="Submit">
 </form> 

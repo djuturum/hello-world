@@ -5,7 +5,7 @@
 <h2>HTML Forms</h2>
 
 <form action="/action_page.php">
-  <label for="fname">First ame:</label><br>
+  <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value="Enter value"><br>
   <label for="lname">Last Name:</label><br>
   <input type="text" id="lname" name="lname" value="Enter value"><br><br>

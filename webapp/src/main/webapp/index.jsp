@@ -6,9 +6,9 @@
 
 <form action="/action_page.php">
   <label for="fname">FirstName:</label><br>
-  <input type="text" id="fname" name="fname" value="Miki"><br>
+  <input type="text" id="fname" name="fname" value="Muamer"><br>
   <label for="lname">LastName:</label><br>
-  <input type="text" id="lname" name="lname" value="Ksssssfsdfdssssssss"><br><br>
+  <input type="text" id="lname" name="lname" value="Kadic"><br><br>
   <label for="lname">Surname Name:</label><br>
   <input type="text" id="lname" name="lname" value="emire ustani  "><br><br>
 

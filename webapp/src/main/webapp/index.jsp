@@ -8,7 +8,7 @@
   <label for="fname">FirstName:</label><br>
   <input type="text" id="fname" name="fname" value="Esma i Emir"><br>
   <label for="lname">LastName:</label><br>
-  <input type="text" id="lname" name="lname" value="Kadic"><br><br>
+  <input type="text" id="lname" name="lname" value="Suada i Muamer"><br><br>
   <label for="lname">Surname Name:</label><br>
   <input type="text" id="lname" name="lname" value="emire ustani  "><br><br>
 
